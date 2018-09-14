@@ -6,3 +6,5 @@ Add new text in GitHub
 Master - 1
 Subbranch - 1
 Subbranch - 2
+Subbranch - 3
+Add new feature
